@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    font-family: Helvetica;
+}
+
+.bloco{
+    margin: 10px;
+    padding: 10px 10px 20px 10px;
+    color: #fff;
+    width: 280px;
+}
+
+#bloco-1{
+    background-color: #e18f39;
+    border: 4px solid #eda751;
+}
+
+#bloco-2{
+    background-color: #3c7f4e;
+    border: 4px solid #51a676;
+}
+
+#bloco-3{
+    background-color: #1e4633;
+    border: 4px dashed #64cd7b;
+}
+
+#bloco-4{
+    background-color: #dc3f2b;
+    border: 4px dashed #e98274;
+}
